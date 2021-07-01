@@ -1,0 +1,4 @@
+/covidqrcheck/build/
+covidqrcheck/dist
+covidqrcheck/go/*.dylib
+covidqrcheck/go/*.h
